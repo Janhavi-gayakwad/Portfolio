@@ -26,7 +26,7 @@ Add your deployed portfolio link here.
 
 ## GitHub Repository
 
-Add your repository link here.
+[Add your repository link here.](https://github.com/Janhavi-gayakwad/Portfolio/tree/main)
 
 ## About Me
 
